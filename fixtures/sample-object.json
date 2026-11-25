@@ -1,0 +1,10 @@
+{
+  "fixture": "synthetic-demo-only",
+  "registered": false,
+  "object": {
+    "title": "Sample edition item",
+    "description": "Fictional object for a partner demonstration",
+    "serial": "DEMO-001"
+  },
+  "evidence": []
+}

@@ -1,0 +1,3 @@
+# Security and privacy
+
+Report potential vulnerabilities privately to the maintainers; do not open public issues with exploitable details. Use synthetic objects and dedicated wallets. Do not commit private keys, seed phrases, signing permits, NFC secrets, personal or health information. Public chain writes are visible and generally irreversible; avoid partner identifiers and linkable personal metadata. No automatic Mainnet writes, no production keys, no unbounded approvals. In case of a pilot incident, stop sponsor payouts/relayer activity, protect funds and document affected experimental deployments. Immutable records cannot be erased by stopping the pilot.
